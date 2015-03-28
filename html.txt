@@ -1,0 +1,2 @@
+style:font-size, font-family, color, background-color, text-align
+em/bold 
